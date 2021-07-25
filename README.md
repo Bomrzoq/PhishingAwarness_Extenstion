@@ -16,6 +16,6 @@
 
 
 
-made by: ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+made by: ![Bomrzoq](https://github.com/Bomrzoq)
+
 
