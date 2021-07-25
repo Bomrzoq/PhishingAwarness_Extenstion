@@ -1,4 +1,4 @@
-# Phishing Awarrer ![Phishing Awarrer Logo](/logo.png) Format: ![size](10)
+# Phishing Awarrer ![Phishing Awarrer Logo](/logo.png) 
 
 
 
