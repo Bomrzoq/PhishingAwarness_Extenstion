@@ -1,4 +1,4 @@
-# Phishing Awarrer ![Phishing Awarrer Logo](/logo.png) 
+TL;DR![Phishing Awarrer Logo](/logo.png) 
 
 
 
