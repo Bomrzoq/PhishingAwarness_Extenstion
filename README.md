@@ -4,16 +4,11 @@
 
 ### An extention made for firefox to make people be aware for phishing website and notice them to the user.
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
 ## Current Progress of Development
+- [x] Setteing up the files that are needed to run on Firefox
+- [ ] Creating the JS file to read all needed information from the webpage
+- [ ] Creating the JS code/function/file to compare between similarities and copies
+- [ ] Running all extention on different know website for testing
 
- Stage | Status | Conent 
- ------------ | ------------- | -------------
- Stage 1 | - [x] | Setteing up the files that are needed to run on Firefox
- Stage 2 | Started :grey_exclamation: | Creating the JS file to read all needed information from the webpage
- Stage 3 | Not Started Yet :o: | Creating the JS code/function/file to compare between similarities and copies
- Stage 4 | Not Started Yet  :o: | Running all extention on different know website for testing
+
+
