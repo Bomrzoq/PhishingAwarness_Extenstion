@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Bomrzoq/PhishingAwarness_Extenstion/main/logo.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/Bomrzoq/PhishingAwarness_Extenstion/logo.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
