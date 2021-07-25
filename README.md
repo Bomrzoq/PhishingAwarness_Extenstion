@@ -16,4 +16,6 @@
 
 
 
-made by: ![GitHub Account] (https://github.com/Bomrzoq)
+made by: ![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
