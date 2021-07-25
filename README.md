@@ -4,7 +4,7 @@
 ### An extention made for firefox to make people be aware for phishing website and notice them to the user.
 
 ##Current Progress of Development
-
+---
 Stage | Status | Conent 
 ------------ | -------------
 Stage 1 | Finished | Setteing up the files that are needed to run on Firefox
