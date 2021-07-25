@@ -15,7 +15,10 @@
 - [ ] Running all extention on different know website for testing
 
 
+<p align="center">
 
 made by: ![Bomrzoq](https://github.com/Bomrzoq) & ![Ali](https://github.com/SuperOzi01) with :heart:
+ 
+</p>
 
 
