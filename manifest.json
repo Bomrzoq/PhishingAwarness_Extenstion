@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Phishing Awarrer",
+    "version": "1.0",
+   
+    "description": "Notify the user that the website that he uses might be a phishing website or not",
+   
+    "content_scripts": [
+      {
+        "matches": ["*://*.google.com/search?*"],
+        "js": ["phishingSearch.js"]
+      }
+    ],
+    
+    "permissions": [
+      ""
+    ] 
+  }
