@@ -1,4 +1,7 @@
-TL;DR![Phishing Awarrer Logo](/logo.png) 
+<p align="center">
+  <img src="https://github.com/Bomrzoq/PhishingAwarness_Extenstion/edit/main/logo.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 
 
 
