@@ -5,6 +5,7 @@
 <p align="center">
 ### An extention made for firefox to make people be aware for phishing website and notice them to the user.
 </p>
+
 ## Current Progress of Development
 - [x] Setteing up the files that are needed to run on Firefox
 - [ ] Creating the JS file to read all needed information from the webpage
