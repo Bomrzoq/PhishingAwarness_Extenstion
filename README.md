@@ -7,7 +7,7 @@
 ## Current Progress of Development
 
  Stage | Status | Conent 
- ------------ | -------------
+ ------------ | ------------- | -------------
  Stage 1 | Finished | Setteing up the files that are needed to run on Firefox
  Stage 2 | Started | Creating the JS file to read all needed information from the webpage
  Stage 3 | Not Started Yet | Creating the JS code/function/file to compare between similarities and copies
