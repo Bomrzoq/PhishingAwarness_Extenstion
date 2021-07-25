@@ -16,4 +16,4 @@
 
 
 
-made by: !(https://github.com/Bomrzoq) !Alt:@Bomrzoq
+made by: ![GitHub Account] (https://github.com/Bomrzoq)
