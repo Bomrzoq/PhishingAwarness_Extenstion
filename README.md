@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="https://github.com/Bomrzoq/PhishingAwarness_Extenstion/blob/main/logo.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/Bomrzoq/PhishingAwarness_Extenstion/blob/main/assets/logo.png?raw=true" alt="Sublime's custom image"/>
 </p>
+
 
 <p align="center">
 <b>An extention made for firefox to make people be aware for phishing website and notice them to the user.<b>
@@ -18,6 +20,4 @@
 ---------
 
 made by: ![Bomrzoq](https://github.com/Bomrzoq) & ![Ali](https://github.com/SuperOzi01) with :heart:
-
-
 
