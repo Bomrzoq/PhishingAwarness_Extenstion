@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
-# PhishingAwarness_Extenstion
-An extention made for firefox to make people be aware for phishing website and notice them to the user.
-=======
+
 <p align="center">
   <img src="https://github.com/Bomrzoq/PhishingAwarness_Extenstion/blob/main/assets/logo.png?raw=true" alt="Sublime's custom image"/>
 </p>
@@ -24,5 +21,3 @@ An extention made for firefox to make people be aware for phishing website and n
 made by: ![Bomrzoq](https://github.com/Bomrzoq) & ![Ali](https://github.com/SuperOzi01) with :heart:
 
 
-
->>>>>>> Stashed changes
