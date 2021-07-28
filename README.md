@@ -19,5 +19,5 @@
 
 made by: ![Bomrzoq](https://github.com/Bomrzoq) & ![Ali](https://github.com/SuperOzi01) with :heart:
 
-
+---------
 
