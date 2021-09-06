@@ -7,6 +7,7 @@
 </p>
 
 ---------
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Bomrzoq.PhishingAwarness_Extenstion)
   
 ## Current Progress of Development
 - [x] Setteing up the files that are needed to run on Firefox
